@@ -1,0 +1,58 @@
+
+#folha {
+
+    float: left;
+    padding-right: 10px;
+}
+
+#cereja {
+    
+    float: right;
+      
+}
+
+#team {
+
+    float: left;
+    padding-right: 10px;
+}
+
+#cedros {
+    
+    float: right;
+          
+}
+
+#header {
+    
+    margin: 1%;
+
+}
+
+#flor {
+    
+    margin: 1%;
+}
+
+#agua {
+
+    float: left;
+    padding-right: 10px;
+
+   
+}
+#lorem {
+    
+    margin:1%;
+}
+
+#comp {
+
+    text-align: justify;
+ 
+}
+#glo {
+
+    text-align: justify;
+ 
+}
